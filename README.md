@@ -1,5 +1,5 @@
 # Poetry Analysis
-This analysis aims to delve deeper into the concept of Poetry Assessment utilizing NLP and LLMs.
+This analysis aims to provide valuable insights into the characteristics of poems in the dataset below.
 
 ### Dataset: https://www.kaggle.com/datasets/tgdivy/poetry-foundation-poems
 
